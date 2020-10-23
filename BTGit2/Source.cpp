@@ -19,7 +19,7 @@ int main()
 		
 	case 3:
 		
-	case 4:// Long		
+	case 4:// Long...		
 		int a;
 		a = rand() % (100) + 1;
 		int b;
