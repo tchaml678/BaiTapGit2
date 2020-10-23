@@ -12,14 +12,14 @@ int main()
 
 	switch (baiTap2)
 	{
-	case 1:// bai 
-		
+	case 1:
+	//bai 1	
 		
 	case 2:
-		
+	//bai 2
 	case 3:
-		
-	case 4:// Long...		
+	//bai 3
+	case 4:// Bai 4		
 		int a;
 		a = rand() % (100) + 1;
 		int b;
