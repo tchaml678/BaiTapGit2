@@ -13,7 +13,7 @@ int main()
 	switch (baiTap2)
 	{
 	case 1:
-	//bai 1	
+	//bai 1	lam phan nao thi code di
 		
 	case 2:
 	//bai 2
