@@ -13,7 +13,7 @@ int main()
 	switch (baiTap2)
 	{
 	case 1:
-	//bai 1	
+	//bai 1	/
 		
 	case 2:
 	 int a,b;
