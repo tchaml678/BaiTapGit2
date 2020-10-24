@@ -34,6 +34,13 @@ int main()
     cout << "dien tic hinh tron la : " << r*r*pi;
 	case 3:
 	//bai 3
+		int a;
+		a = rand() % (100) + 1;
+		int b;
+		b = rand() % (100) + 1;
+		cout <<a<<" + "<<b<<" = "<< a + b;
+
+		break;
 	case 4:// Bai 4		
 		int a;
 		a = rand() % (100) + 1;
